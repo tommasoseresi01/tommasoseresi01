@@ -22,7 +22,6 @@ Hello! I'm **Tommaso Seresi**, a Software Engineer based in Macerata, Italy, cur
 I hold an MSc in **Business Informatics & Data Science** from the University of Camerino.
 
 My passion is designing and building **AI-powered systems** — from RAG pipelines and LLM integrations to digital twin architectures and intelligent business process automation.
-I'm also the co-founder of **ProSer-AI**, a startup bringing AI-as-a-Service to Italian SMEs.
 
 ---
 
