@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=230&section=header&text=Tommaso%20Seresi&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%86%92%20AI%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=230&section=header&text=Tommaso%20Seresi&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%E2%86%92%20AI%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
 
 ---
 
@@ -10,7 +10,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-**From software architecture to AI systems — building intelligent solutions that create real value for businesses.**
+**From enterprise .NET systems to AI-powered solutions — building software that creates real value for businesses.**
 
 ---
 
@@ -18,10 +18,10 @@
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
-Hello! I'm **Tommaso Seresi**, a Software Engineer based in Macerata, Italy, currently transitioning into **AI Engineering**.
+Hello! I'm **Tommaso Seresi**, a Software Developer based in Macerata, Italy, currently working on **enterprise .NET applications** while pursuing my interest in **AI Engineering**.
 I hold an MSc in **Business Informatics & Data Science** from the University of Camerino.
 
-My passion is designing and building **AI-powered systems** — from RAG pipelines and LLM integrations to digital twin architectures and intelligent business process automation.
+In my current role I build backend systems with **C#, ASP.NET Core and Entity Framework Core** on SQL Server, while continuing to design and build **AI-powered systems** — from RAG pipelines and LLM integrations to digital twin architectures and intelligent business process automation.
 
 ---
 
@@ -45,6 +45,10 @@ My passion is designing and building **AI-powered systems** — from RAG pipelin
 
 ### ☕ Backend & Enterprise
 <div align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /></a>
@@ -69,6 +73,8 @@ My passion is designing and building **AI-powered systems** — from RAG pipelin
 
 ### 🗄️ Databases & Process Modeling
 <div align="center">
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference"><img src="https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" /></a>
