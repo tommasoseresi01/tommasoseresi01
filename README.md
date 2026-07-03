@@ -58,14 +58,15 @@ ask-me-about: enterprise backends, RAG pipelines, digital twins, BPMN
 
 ---
 
-### 🛡️ [VendorAccessGovernance](https://github.com/tommasoseresi01/VendorAccessGovernance)
-> An **enterprise business-process platform** that governs how external vendors request and obtain scoped access to company systems — with a full audit trail of every request.
+### 🌱 Digital Twin for Smart-Agriculture &nbsp;·&nbsp; `🎓 Master's Thesis`
+> My Master's thesis: a **Digital Twin** that mirrors real agricultural **business processes**, turning live IoT sensor data into automated, explainable agronomic decisions.
 
-- 🔁 Models a real corporate **approval workflow** from request to grant
-- 🗂️ **Archives the complete history** of every vendor process for traceability & compliance
-- 🧩 Role- and functionality-scoped access control
+- 🌡️ **IoT sensor simulation** feeding the process with real-time field data
+- 🔀 **BPMN 2.0** flows orchestrating the operational logic
+- 🧠 **DMN decision tables** for automated, explainable agronomic decisions
+- 📈 **Web dashboard** for real-time monitoring of the digital twin
 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Business%20Process-0062AD?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/BPMN%202.0-FC5D0D?style=flat-square&logo=camunda&logoColor=white"/> <img src="https://img.shields.io/badge/DMN-FC5D0D?style=flat-square&logo=camunda&logoColor=white"/> <img src="https://img.shields.io/badge/Digital%20Twin-6366f1?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-8b5cf6?style=flat-square"/>
 
 ---
 
