@@ -1,181 +1,148 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=230&section=header&text=Tommaso%20Seresi&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%E2%86%92%20AI%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
-
----
-
-<!-- ============================= -->
-<!--          INTRODUCTION         -->
-<!-- ============================= -->
-
-**From enterprise .NET systems to AI-powered solutions — building software that creates real value for businesses.**
-
----
-
-<!-- ============================= -->
-<!--             ABOUT ME          -->
-<!-- ============================= -->
-
-Hello! I'm **Tommaso Seresi**, a Software Developer based in Macerata, Italy, currently working on **enterprise .NET applications** while pursuing my interest in **AI Engineering**.
-I hold an MSc in **Business Informatics & Data Science** from the University of Camerino.
-
-In my current role I build backend systems with **C#, ASP.NET Core and Entity Framework Core** on SQL Server, while continuing to design and build **AI-powered systems** — from RAG pipelines and LLM integrations to digital twin architectures and intelligent business process automation.
-
----
-
-<!-- ============================= -->
-<!--         TECH & TOOLS          -->
-<!-- ============================= -->
-
-### 🤖 AI / LLM Stack
 <div align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" /></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" /></a>
-  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?logoColor=white" /></a>
-  <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-FF6B35?logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?logoColor=black" /></a>
-  <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=220&section=header&text=Tommaso%20Seresi&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%86%92%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/tommasoseresi01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&height=45&lines=Enterprise+.NET+%26+C%23+Backend+Developer;Building+RAG+%26+LLM-powered+systems;MSc+in+Business+Informatics+%26+Data+Science;On+a+mission+to+bring+AI+to+Italian+SMEs" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tommasoseresi01&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/tommasoseresi01?label=Followers&style=flat-square&color=6366f1&logo=github&logoColor=white" alt="Followers"/>
+<a href="https://www.linkedin.com/in/tommaso-seresi-573256279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:seresitommaso@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/📍%20Macerata-Italy-8b5cf6?style=flat-square" alt="Location"/>
+
 </div>
 
 ---
 
-### ☕ Backend & Enterprise
+## 👋 About me
+
+> **I turn messy business processes into clean software — and I'm now teaching that software to think.**
+
+I'm a **Software Developer** based in Macerata, Italy, building **enterprise .NET systems** by day while growing into **AI Engineering** by night. I hold an **MSc in Business Informatics & Data Science** from the **University of Camerino**, where my thesis wired a **Digital Twin** into real agricultural business processes.
+
+```yaml
+name:        Tommaso Seresi
+role:        Software Developer → AI Engineer
+focus:       C# · ASP.NET Core · EF Core  ➜  RAG · LLMs · Agentic AI
+currently:   building full-stack enterprise apps on .NET 10
+learning:    LLM orchestration, vector search & agentic workflows
+mission:     make AI genuinely useful for Italian SMEs
+ask-me-about: enterprise backends, RAG pipelines, digital twins, BPMN
+```
+
+- 🔭 **Now:** shipping a full-stack, multi-company management platform on **ASP.NET Core .NET 10 + React**
+- 🌱 **Exploring:** RAG pipelines, local/cloud LLMs, and AI-driven business-process automation
+- 🎓 **Background:** MSc Business Informatics & Data Science · University of Camerino
+- 🧪 **Thesis:** *Digital Twin for Smart-Agriculture Business Processes* — BPMN 2.0 + DMN + IoT simulation
+- 💬 **Fun fact:** I comment my code like a teacher — if you read my repos, you actually *learn* the "why", not just the "what"
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 [aziende-dati-gestionale](https://github.com/tommasoseresi01/aziende-dati-gestionale) &nbsp;·&nbsp; `⭐ Flagship`
+> Enterprise **multi-company management system**, built end-to-end — a Clean-Architecture .NET backend paired with a modern React frontend.
+
+- 🧱 **Backend:** ASP.NET Core **.NET 10** Web API · Clean Architecture (`Api → Application → Domain`, `Infrastructure → Domain`)
+- 🗄️ **Data:** EF Core 10 + SQL Server · migrations · repository & service layers
+- 🔐 **Security:** JWT / OAuth2 authentication with role-based access
+- ⚡ **Serverless & Docs:** Azure Functions (HTTP + Queue triggers) · Swagger / OpenAPI
+- 🎨 **Frontend:** React 19 + TypeScript + Vite dashboard (CRUD + auth)
+- 📚 *Every pattern is explained in the comments — written to teach, not just to run*
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+
+---
+
+### 🛡️ [VendorAccessGovernance](https://github.com/tommasoseresi01/VendorAccessGovernance)
+> An **enterprise business-process platform** that governs how external vendors request and obtain scoped access to company systems — with a full audit trail of every request.
+
+- 🔁 Models a real corporate **approval workflow** from request to grant
+- 🗂️ **Archives the complete history** of every vendor process for traceability & compliance
+- 🧩 Role- and functionality-scoped access control
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Business%20Process-0062AD?style=flat-square&logo=databricks&logoColor=white"/>
+
+---
+
+### 🧠 [email-ai-knowledge-system](https://github.com/tommasoseresi01/email-ai-knowledge-system)
+> An end-to-end **RAG pipeline** that turns a corporate inbox into a searchable **AI knowledge base**.
+
+- 📥 Email ingestion, chunking & semantic indexing with **ChromaDB**
+- 🤖 LLM-powered Q&A via **LangChain** + **Ollama** (local) or **OpenAI** (cloud)
+- 🌍 Multilingual semantic search using **HuggingFace** embeddings
+- 🔒 Runs fully locally — no mandatory cloud dependency
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+---
+
+### 📂 More on my profile
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| 💬 [Real-Life](https://github.com/tommasoseresi01/Real-Life) | Real-time chat app — WebSocket messaging, auth & private conversations | `React` · `Node.js` |
+| ♟️ [ChessBoardGames](https://github.com/tommasoseresi01/ChessBoardGames) | Chess engine showcasing OOP design patterns (Strategy, Observer, Factory, MVC) | `Java` |
+| 🎁 [LoyaltyPlatformProjectIDS](https://github.com/tommasoseresi01/LoyaltyPlatformProjectIDS) | Multi-merchant loyalty platform — full UML domain model, JUnit-tested | `Java` |
+
+> 🎓 **Master's Thesis — *Digital Twin for Smart-Agriculture Business Processes*:** IoT sensor simulation wired into **BPMN 2.0** flows with **DMN** decision tables for automated agronomic decisions. *(Private repo — happy to walk you through it.)*
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white" /></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /></a>
-  <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,react,ts,nextjs,nodejs,java,spring,fastapi,docker,postgres,mysql,mongodb,redis,git,linux&perline=9" alt="Tech stack"/>
+
+<br/><br/>
+
+**🤖 AI / LLM Toolkit**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square"/>
+
+**🗄️ Data & Enterprise**
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/BPMN%202.0-FC5D0D?style=flat-square&logo=camunda&logoColor=white"/>
+
 </div>
 
 ---
 
-### 🎨 Frontend
-<div align="center">
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" /></a>
-</div>
+## 🧪 Currently Building
+
+- 🚀 **ProSer-AI** — an *AI-as-a-Service* venture bringing practical LLM tooling to Italian SMEs
+- 🧬 **Student-Journey-Twin** — a digital-twin prototype of the university student journey (UNICAM)
+- ⚡ **[nextenterprise](https://nextenterprise-six.vercel.app)** — a Next.js + TypeScript enterprise app *(live on Vercel)*
+- 📖 Going deeper on **agentic AI**, **vector search** and **LLM evaluation**
 
 ---
-
-### 🗄️ Databases & Process Modeling
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference"><img src="https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" /></a>
-  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" /></a>
-  <a href="https://www.omg.org/bpmn/"><img src="https://img.shields.io/badge/BPMN%202.0-0066CC?logo=camunda&logoColor=white" /></a>
-  <a href="https://www.swi-prolog.org/"><img src="https://img.shields.io/badge/Prolog-E61B23?logoColor=white" /></a>
-</div>
-
----
-
-### ⚙️ Tools & Workflow
-<div align="center">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" /></a>
-  <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
-</div>
-
----
-
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
-
-## 🗂️ Featured Projects
-
----
-
-### 📧 [email-ai-knowledge-system](https://github.com/tommasoseresi01/email-ai-knowledge-system)
-_End-to-end RAG pipeline that transforms a corporate inbox into a searchable AI knowledge base._
-
-✨ Key features:
-- Email ingestion, chunking & semantic indexing via ChromaDB
-- LLM-powered Q&A with LangChain + Ollama (local) or OpenAI (cloud)
-- HuggingFace embeddings for multilingual semantic search
-- Fully open-source & locally runnable — no cloud dependency required
-
----
-
-### 🌱 [dtbp-smart-agricolture](https://github.com/tommasoseresi01/dtbp-smart-agricolture)
-_Master's Thesis — Digital Twin for Smart Agriculture Business Processes._
-
-✨ Key features:
-- IoT sensor simulation integrated with BPMN process flows
-- DMN decision tables for automated agronomic decisions
-- Real-time process monitoring via digital twin simulation
-- Built with Python, Camunda-style BPMN engine
-
----
-
-### 💬 [Real-Life](https://github.com/tommasoseresi01/Real-Life)
-_Real-time chat application with full authentication and contact management._
-
-✨ Key features:
-- Bidirectional real-time messaging with WebSocket
-- User authentication & private conversations
-- React frontend + Node.js backend
-
----
-
-### ♟️ [ChessBoardGames](https://github.com/tommasoseresi01/ChessBoardGames)
-_Chess board game simulator with advanced OOP design patterns._
-
-✨ Key features:
-- Strategy, Observer, Factory and MVC patterns
-- Configurable game rules engine
-- Pure Java — no external frameworks
-
----
-
-### 🎁 [LoyaltyPlatformProjectIDS](https://github.com/tommasoseresi01/LoyaltyPlatformProjectIDS)
-_Multi-merchant loyalty platform — Software Engineering exam project._
-
-✨ Key features:
-- Points & rewards management across merchant coalition
-- Full domain model with UML design
-- Tested with JUnit
-
----
-
-## 🧪 Work in Progress
-
-- **🚀 ProSer-AI** — AI-as-a-Service startup bringing LLM tools to Italian SMEs
-- **🎓 Student-Journey-Twin** — Digital twin prototype of the academic journey (UNICAM thesis)
-- **⚡ nextenterprise** — [Live on Vercel](https://nextenterprise-six.vercel.app) — TypeScript + Next.js enterprise app
-
----
-
-<!-- ============================= -->
-<!--          GITHUB STATS         -->
-<!-- ============================= -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tommasoseresi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tommasoseresi01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommasoseresi01&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommasoseresi01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tommasoseresi01&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=6366f1&fire=f43f5e&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
@@ -183,16 +150,16 @@ _Multi-merchant loyalty platform — Software Engineering exam project._
 
 ---
 
-<!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
+## 🤝 Let's Connect
 
-## 🤝 Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-seresi-573256279/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tommasoseresi01)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:seresitommaso@gmail.com)
+I'm always open to talking about **enterprise software**, **AI engineering** or a good **espresso** ☕
 
----
+<a href="https://www.linkedin.com/in/tommaso-seresi-573256279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tommasoseresi01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:seresitommaso@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
